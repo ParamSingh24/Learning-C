@@ -14,7 +14,7 @@ int main(){
 
     return 0;
 }*/
-// program for upward triangle
+// program to print triangular pattern for upward 
 #include<stdio.h>
 int main(){
     int i,j,k;
