@@ -1,3 +1,4 @@
+//Program to print triangular star pattern
 #include<stdio.h>
 int main(){
     int i,j,k;
