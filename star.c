@@ -1,5 +1,5 @@
-//Program to print triangular star pattern
-#include<stdio.h>
+//Program to print triangular star pattern downwards
+/*#include<stdio.h>
 
 int main(){
     for(int i=5;i>=1;i--){
@@ -13,12 +13,12 @@ int main(){
 
 
     return 0;
-}
-
-/* n#include<stdio.h>
+}*/
+// program for upward triangle
+#include<stdio.h>
 int main(){
     int i,j,k;
-    for(i=5;i>=1;i--)
+    for(i=1;i<=5;i++)
     {
         for(j=1;j<=5-i;j++)
         printf(" ");
