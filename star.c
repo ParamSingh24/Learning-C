@@ -1,4 +1,4 @@
-//Program to print triangular star pattern downwards
+//Program to print triangular star pattern downwards  
 /*#include<stdio.h>
 
 int main(){
